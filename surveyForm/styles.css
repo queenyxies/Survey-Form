@@ -1,0 +1,40 @@
+body {
+    background-image: url(https://cdn.shopify.com/s/files/1/0575/0987/1774/files/2_549ec694-f707-4015-9702-b6da8f7d820a.png?v=1653967370);
+    font-family: sans-serif;
+    padding: 20px;
+  }
+  
+  h1, p {
+    text-align: center;
+    margin-top: 20px;
+    color: #f15942;
+  }
+  
+  fieldset {
+    width: 80%;
+    background-color: #cfe7cd;
+    border: none;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 650px;
+  }
+  
+  label {
+    display: block;
+      margin: 0.5rem 0;
+  }
+  
+  input,
+  textarea,
+  select {
+    margin: 10px 0 0 0;
+      width: 100%;
+    min-height: 2em;
+  }
+  
+  .inline {
+    width: unset;
+    margin: 0 0.5em 0 0;
+    vertical-align: middle;
+  }
